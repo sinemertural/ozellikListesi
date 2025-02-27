@@ -1,6 +1,5 @@
 SwiftUI Avantaları 
 1 - Deklaratif UI – Arayüzü nasıl görüneceğini belirterek oluşturursunuz.
 2 - Canlı Önizleme – Tasarım değişikliklerini anında görebilirsiniz.
-3 - Durum Yönetimi – @State ve @Binding gibi özelliklerle veri yönetilir.
-4 - Platform Desteği – iOS, macOS, watchOS ve tvOS ile uyumludur.
-5 - Animasyon Desteği – SwiftUI ile kolayca akıcı animasyonlar oluşturabilirsin.
+3 - Platform Desteği – iOS, macOS, watchOS ve tvOS ile uyumludur.
+4 - Animasyon Desteği – SwiftUI ile kolayca akıcı animasyonlar oluşturabilirsin.
